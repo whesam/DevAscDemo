@@ -6,7 +6,7 @@ def generate_random_numbers(count, start, end):
 
 def main():
     print("Random Number Generator")
-    count = 11
+    count = 12
     start = 1
     end = 100
     random_numbers = generate_random_numbers(count, start, end)
